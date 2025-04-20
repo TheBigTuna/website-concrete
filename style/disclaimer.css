@@ -1,0 +1,11 @@
+#disclaimerContainer{
+    margin-top: 5rem;
+}
+
+#disclaimerHeadText{
+    font-weight: 700;
+    font-family: 'Nunito', sans-serif;
+    color: black;
+    font-size: 60px;
+    text-align: center;
+}

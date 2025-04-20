@@ -1,0 +1,157 @@
+/* OTHERS */
+
+*:focus {
+  outline: none;
+} 
+
+#icon {
+  width:60%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
+body{
+    margin-bottom: 0rem;
+}
+
+#teachContainer{
+    margin-top: 5rem;
+    /* border-left: 6px solid #56baed;
+    border-bottom: 6px solid #56baed; 
+    border-top: 6px solid #56baed;
+    border-right: 6px solid #56baed; */
+}
+
+#sidePanel{
+    background-color: #FCFCFC;
+}
+
+#lessonContainer{
+  margin-top: 8rem;
+    /* border-left: 6px solid #56baed;
+    border-bottom: 6px solid #56baed; 
+    border-top: 6px solid #56baed;
+    border-right: 6px solid #56baed; */
+}
+
+#lessonPreviewBG{
+  padding: 0.6rem;
+}
+
+#lessonPreviewHeaderTitle{
+  text-align: center;
+  font-weight: 700;
+  font-family: 'Nunito', sans-serif;
+}
+
+#articlePreviewBG{
+  margin: 1em auto;
+}
+
+#lessonPreviewHeaderSubtitle{
+  text-align: center;
+}
+
+#CourseListBG{
+  /* background-color:#7ac7ef; */
+  padding: 10px;
+}
+
+#CourseListBG{
+  margin: 1.6rem;
+}
+
+.listHeader, .listContent{
+  font-weight: 700;
+  /* background-color: #e8e8e8; */
+  font-size: 1.2rem;
+  text-align: center;
+  color: #333333;
+  font-weight: 700;
+  padding: 0.3rem;
+}
+
+.listHeader:hover, .listContent:hover{
+    background-color: #DEDEDE;
+    transition: 400ms;
+}
+
+#UserInformationBG{
+    border-radius: 7px;
+    padding: 1em;  
+}
+
+#AccountInformationTitle, 
+#paymentInformationTitle{
+    text-align: center;
+    font-weight: 700;
+}
+
+.startCourseButton{
+    background-color: #c62ded; 
+    color: white;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-size: 1rem;
+    float: right;
+}
+
+.startCourseButton:hover{
+    color: white;
+
+}
+
+#selectLogin:hover, 
+#selectSignUp:hover{
+  cursor: pointer;
+}
+
+#CourseList a{
+  color: #fff;
+  text-decoration: none;
+}
+
+#teachContainer .col-xl-3{
+    /* border-right: 1px solid black; */
+    padding-right: 0px;
+}
+
+#teachContainer .list-group-item{
+    border-radius: 0px;
+    box-shadow:
+    0 7px 7px rgba(0, 0, 0, 0.042),
+    0 1.5px 1.5px rgba(0, 0, 0, 0.05),
+    0 4px 4px rgba(0, 0, 0, 0.07);
+}
+
+#teachContainer a{
+    text-decoration: none;
+}
+
+.completedMark{
+    color: green;
+    font-size: 2rem;
+    float: right;
+}
+
+.attentionMark{
+    color: orange;
+    font-size: 2rem;
+    float: right;
+}
+
+
+/* Article boxes */
+#articleBG{
+  padding: 1rem;
+}
+
+#displayArticle{
+  box-shadow:
+  0 1.7px 1.7px rgba(0, 0, 0, 0.042),
+  0 3.5px 3.5px rgba(0, 0, 0, 0.05),
+  0 8px 8px rgba(0, 0, 0, 0.07);
+}

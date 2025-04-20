@@ -1,0 +1,24 @@
+#footerContainer{
+    background-color: #ffffff;
+    padding: 2rem;
+}
+/* 
+#footerCompanyTitle, #footerCompanySubtitle, #footerCompanyPhoneNumber, #footerSmallText{
+    text-align: center;
+} */
+
+#footerSmallText{
+    color: #7c7c7c;
+}
+
+#footerContainer li a h6{
+    color: black;
+}
+#footerContainer li a:active{
+    color: #777 !important;
+}
+#footerContainer li a:hover{
+    color: #8167a9 !important;
+}
+
+

@@ -1,0 +1,52 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,600);
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+@import url('https://fonts.googleapis.com/css?family=Nunito&display=swap');
+
+#servicesContainer{
+    margin-top: 5rem;
+}
+
+#servicesWrapper{
+    /* position: absolute; */
+    /* width: calc(80em - 14px); */
+    padding-left: 14px;
+    padding-right: 14px;
+    margin: 0;
+    /* left: 50%;
+    top: 70%; */
+    /* -webkit-transform: translateY(-50%) translateX(-50%);
+    -ms-transform: translateY(-50%) translateX(-50%);
+    -moz-transform: translateY(-50%) translateX(-50%); */
+}
+
+#servicesHeadText{
+    font-weight: 700;
+    font-family: 'Nunito', sans-serif;
+    color: black;
+    font-size: 60px;
+    text-align: center;
+}
+
+#servicesSubText{
+    font-family: 'Nunito', sans-serif;
+    color: black;
+    font-size: 32px;
+}
+
+.servicesSubTitles{
+    text-align: center;
+    font-weight: 700;
+}
+
+.servicesTexts{
+    font-size: 1.05rem;
+}
+
+.servicesSection{
+    padding: 22px;
+}
+
+#contactContainer {
+    position: absolute;
+    z-index: 1;
+  }
