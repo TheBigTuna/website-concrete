@@ -6,7 +6,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 col-xl-8">
-                    <div>
+                    <div class="mt-5">
                         <h1 id="contactUsHeadText">Contact Us</h1>
                         <h2 id="contactUsSubText">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h2>
                     </div>

@@ -6,7 +6,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 col-xl-8">
-                    <div>
+                    <div class="mt-5">
                         <h1 id="privacyPolicyHeadText">Privacy Policy</h1>
                         <h2 id="privacyPolicySubText">Your Privacy Matters to Us</h2>
                     </div>

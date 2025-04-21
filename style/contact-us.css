@@ -24,6 +24,7 @@
     font-family: 'Nunito', sans-serif;
     color: black;
     font-size: 60px;
+    text-align: center;
 }
 
 #contactUsSubText{
@@ -38,7 +39,7 @@
 }
 
 .contactUsTexts{
-    font-size: 1.2rem;
+    font-size: 1.05rem;
 }
 
 .contactUsSection{
