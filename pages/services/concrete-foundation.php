@@ -30,17 +30,18 @@
             </div>
             <div class="row">
                 <div class="col-12 col-xl-8">
-                    <h3 class="servicesSubTitles">Lorem ipsum dolor sit amet</h3>
+                    <h3 class="servicesSubTitles">Concrete Foundation Benefits</h3>
                         <p class="servicesTexts">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                            Praesent at nisi ultricies, lobortis erat id, vulputate quam. 
-                            Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;
+                            A concrete foundation provides strong, long-lasting support for both residential and commercial structures. 
+                            Atc......................, we pride ourselves on being one of ............ top concrete slab contractors, 
+                            delivering durable and dependable foundations built to last for years. 
+                            Here are some key benefits of choosing a concrete foundation for your home or business.
                         </p>
                 </div>
                 <div class="col-0 col-xl-4"></div>
             </div>
             <div class="row">
-                <div class="col-12">
+                <div class="col-xl-8">
                     <div class="servicesSection">
                         <h3 class="servicesSubTitles">Lorem ipsum dolor sit amet</h3>
                         <p class="servicesTexts text-center">
@@ -50,6 +51,13 @@
                             Morbi congue sed odio eget laoreet. Mauris et ligula erat. Sed a sodales tortor.
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                         </p>
+                    </div>
+                </div>
+                <div class="col-xl-4">
+                    <div class="card mb-5 mb-lg-0">
+                        <div class="card-body">
+                            <img src="../../images/concrete-img-2.jpg" width="100%;"/>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -68,6 +76,50 @@
                 </div>
             </div>
         </div>
+        <section class="pricing py-5">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-4">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-uppercase text-center">BUILT TO LAST</h5>
+                                <hr>
+                                <p>
+                                    Concrete stands strong against the elements—it doesn't rot, rust, or burn. 
+                                    Its natural resistance to water, wind, fire, earthquakes, and vibrations makes it one of the most durable building materials available.
+                                    This strength not only helps lower long-term maintenance costs but also enhances safety.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-uppercase text-center">LOW MAINTENANCE & Durable</h5>
+                                <hr>
+                                <p>
+                                    Concrete outlasts many other construction materials, growing even stronger as time passes. 
+                                    Its longevity means structures require less frequent repairs or replacements, 
+                                    leading to significantly lower maintenance costs over the years.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-uppercase text-center">Concrete Is Cost-Effective</h5>
+                                <hr>
+                                Concrete is one of the most widely available and affordable construction materials globally. 
+                                Compared to polymers, steel, and other cement-based products, its production costs are significantly lower. 
+                                The primary components—aggregates, water, and cement—are easily sourced and generally inexpensive in most local markets, 
+                                making concrete a highly economical choice for a wide range of construction projects.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </section>
     </div>
     <div class="row"></div>
 </div>

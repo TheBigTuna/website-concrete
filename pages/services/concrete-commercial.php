@@ -78,6 +78,31 @@
                     </div>
                 </div>
             </div>
+            <section class="pricing py-5">
+                <div class="row">
+                    <div class="col-xl-4">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <img src="../../images/concrete-img-2.jpg" width="100%;"/>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <img src="../../images/concrete-img-2.jpg" width="100%;"/>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <img src="../../images/concrete-img-2.jpg" width="100%;"/>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
         </div>
     </div>
     <div class="row"></div>
