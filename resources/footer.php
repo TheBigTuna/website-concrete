@@ -19,9 +19,9 @@
                 <div class="row">
                     <div class="col-4">
                         <ul class="list-group list-unstyled">
-                            <li><a class="list-group-item border-0" href="#"><h6>Service #1</h6></a></li>
-                            <li><a class="list-group-item border-0" href="#"><h6>Service #2</h6></a></li>
-                            <li><a class="list-group-item border-0" href="#"><h6>Service #3</h6></a></li>
+                            <li><a class="list-group-item border-0" href="/pages/services/concrete-driveway.php"><h6>Driveways</h6></a></li>
+                            <li><a class="list-group-item border-0" href="/pages/services/concrete-commercial.php"><h6>Commercial</h6></a></li>
+                            <li><a class="list-group-item border-0" href="/pages/services/concrete-foundation.php"><h6>Foundation</h6></a></li>
                         </ul>
                     </div>
                     <div class="col-4">
@@ -33,9 +33,9 @@
                     </div>
                     <div class="col-4">
                         <ul class="list-group list-unstyled">
-                            <li><a class="list-group-item border-0" href="#"><h6>About Us</h6></a></li>
-                            <li><a class="list-group-item border-0" href="#"><h6>Contact Us</h6></a></li>
-                            <li><a class="list-group-item border-0" href="#"><h6>FAQ</h6></a></li>
+                            <li><a class="list-group-item border-0" href="/pages/faq.php"><h6>FAQ</h6></a></li>
+                            <li><a class="list-group-item border-0" href="/pages/contact-us.php"><h6>Contact Us</h6></a></li>
+                            <li><a class="list-group-item border-0" href="/pages/privacy-policy.php"><h6>Privacy</h6></a></li>
                         </ul>
                     </div>
                 </div>

@@ -70,11 +70,14 @@
 									<a class="nav-link" href="/articles.php">Articles</a>
 								</li> -->
 								<li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
-									<a class="nav-link" href="/pages/contact-us.php">Contact Us</a>
+									<a class="nav-link" href="/pages/faq.php">FAQ</a>
 								</li>
 								<li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
-									<a class="nav-link" href="/pages/privacy-policy.php">Privacy</a>
+									<a class="nav-link" href="/pages/contact-us.php">Contact Us</a>
 								</li>
+								<!-- <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
+									<a class="nav-link" href="/pages/privacy-policy.php">Privacy</a>
+								</li> -->
 								<!-- <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
 									<a class="nav-link" href="/pages/disclaimer.php">Disclaimer</a>
 								</li> -->
