@@ -146,20 +146,12 @@
             <section class="siteInfo2 py-5">
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-6">
+                        <div class="col-12 col-lg-6">
                             <div class="text-center">
-                                <h3 class="font-weight-bold">Lorem ipsum dolor sit amet</h3>
-                                <p class="pageText">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at nisi ultricies, lobortis erat id, vulputate quam. 
-                                    Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi congue sed odio eget laoreet.
-                                    Mauris et ligula erat. Sed a sodales tortor. Quisque at felis vitae mi efficitur egestas in a neque. Aliquam quis nibh pretium, 
-                                    Etiam et lorem aliquet, facilisis massa sed, pharetra sem. Nunc ac mauris aliquet, aliquet turpis nec, vestibulum sem. Quisque 
-                                    vitae magna a ex egestas hendrerit eu non est. 
-                                    Sed in odio eget ante porta fringilla.
-                                </p>
+                                <iframe width="560" height="315" src="https://www.youtube.com/embed/UOHURuAf5iY?si=0VKO_C273sD3w-HF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>                           
                             </div>
                         </div>
-                        <div class="col-lg-6">
+                        <div class="col-12 col-lg-6">
                             <div class="text-center">
                                 <h3 class="font-weight-bold">Lorem ipsum dolor sit amet</h3>
                                 <p class="pageText">
