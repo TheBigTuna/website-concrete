@@ -1,6 +1,11 @@
 #footerContainer{
-    background-color: #ffffff;
+    /* background-color: #ffffff; */
     padding: 2rem;
+    background-color: #e6e6e6
+}
+
+#footerContainer .list-group-item{
+    background-color: #e6e6e6;
 }
 /* 
 #footerCompanyTitle, #footerCompanySubtitle, #footerCompanyPhoneNumber, #footerSmallText{

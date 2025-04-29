@@ -7,7 +7,8 @@
 body{
   overflow-x: hidden;
   /* margin-bottom: 2rem; */
-  background-color: #e6e6e6
+  /* Background-color here */
+  /* background-color: #e6e6e6 */
 
 }
 
@@ -232,7 +233,7 @@ body{
 ================================================== */
 
 .bg-light {
-	background-color: #fff !important;
+	/* background-color: #fff !important; */
     transition: all 200ms linear;
 }
 .section {

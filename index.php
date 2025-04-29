@@ -74,7 +74,7 @@
         <section class="siteInfo2 py-5">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-6">
+                    <div class="col-lg-8">
                         <p class="pageText">
                             As one of the top-rated concrete contractors Metro Detroit Concrete Contractors takes pride in delivering high-quality, durable, and visually appealing concrete driveways that enhance both residential and commercial properties.
                             Your satisfaction is our top priority, 
@@ -89,10 +89,10 @@
                             Let our experienced professionals bring your vision to life—with a driveway that not only looks great but stands the test of time.
                         </p>
                     </div>
-                    <div class="col-lg-6">
+                    <div class="col-lg-4">
                         <div class="card mt-5 mb-lg-0">
                             <div class="card-body">
-                                <img src="images/concrete-img-2.jpg" width="100%;"/>
+                                <img src="images/concrete-img-3.jpg" width="100%;"/>
                             </div>
                         </div>
                     </div>
@@ -155,24 +155,17 @@
                             <div class="text-center">
                                 <h3 class="font-weight-bold">Lorem ipsum dolor sit amet</h3>
                                 <p class="pageText">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at nisi ultricies, lobortis erat id, vulputate quam. 
-                                    Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi congue sed odio eget laoreet.
-                                    Mauris et ligula erat. Sed a sodales tortor. Quisque at felis vitae mi efficitur egestas in a neque. Aliquam quis nibh pretium, 
-                                    Etiam et lorem aliquet, facilisis massa sed, pharetra sem. Nunc ac mauris aliquet, aliquet turpis nec, vestibulum sem. Quisque 
-                                    vitae magna a ex egestas hendrerit eu non est. 
-                                    Sed in odio eget ante porta fringilla.
+                                At our .............. concrete company, we bring advanced skills, years of hands-on experience, and cutting-edge technology to every project. 
+                                We utilize high-quality tools and heavy-duty machinery, 
+                                continually upgrading our equipment to ensure exceptional performance, precision, and efficiency—helping you bring your dream project to life.
                                 </p>
                             </div>
                         </div>
                     </div>
-                    <div class="row">
+                    <div class="row mt-5">
                         <div class="col-12">
                             <div class="text-center">
-                                <h3 class="font-weight-bold">Lorem ipsum dolor sit amet</h3>
-                                <p class="pageText">
-                                    At our Jacksonville-based concrete company, we bring advanced skills, years of hands-on experience, and cutting-edge technology to every project. We utilize high-quality tools and heavy-duty machinery, 
-                                    continually upgrading our equipment to ensure exceptional performance, precision, and efficiency—helping you bring your dream project to life.
-                                </p>
+                                <h3 class="font-weight-bold">We're here to provide a great service</h3>
                                 <p class="pageText">
                                     As a dependable concrete service provider in Jacksonville and the surrounding areas, we're prepared to handle a wide variety of projects including retaining walls, foundations, flooring, resurfacing, stamped concrete, pool decks, driveways, patios, sidewalks, countertops, and more. Our team combines extensive industry knowledge with a commitment to delivering superior results every time.
                                     Whether your project is residential or commercial, we approach each job with the same level of professionalism and care. 
@@ -191,7 +184,7 @@
                             <div class="col-xl-3">
                                 <div class="card mb-5 mb-lg-0">
                                     <div class="card-body">
-                                        <img src="images/concrete-img-2.jpg" width="100%;"/>
+                                        <img src="images/concrete-img-1.jpg" width="100%;"/>
                                     </div>
                                 </div>
                             </div>
@@ -212,7 +205,7 @@
                             <div class="col-xl-3">
                                 <div class="card mb-5 mb-lg-0">
                                     <div class="card-body">
-                                        <img src="images/concrete-img-2.jpg" width="100%;"/>
+                                        <img src="images/concrete-img-4.jpg" width="100%;"/>
                                     </div>
                                 </div>
                             </div>
