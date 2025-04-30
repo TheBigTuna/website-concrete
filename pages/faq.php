@@ -272,7 +272,7 @@
                     </div>
                 </div>
             </div>
-            <div class="row  mt-5">
+            <!-- <div class="row  mt-5">
                 <div class="col-12">
                     <div class="servicesSection">
                         <h3 class="servicesSubTitles">Lorem ipsum dolor sit amet</h3>
@@ -285,7 +285,7 @@
                         </p>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
     <div class="row"></div>

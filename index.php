@@ -153,7 +153,7 @@
                         </div>
                         <div class="col-12 col-lg-6">
                             <div class="text-center">
-                                <h3 class="font-weight-bold">Lorem ipsum dolor sit amet</h3>
+                                <h3 class="font-weight-bold"></h3>
                                 <p class="pageText">
                                 At our .............. concrete company, we bring advanced skills, years of hands-on experience, and cutting-edge technology to every project. 
                                 We utilize high-quality tools and heavy-duty machinery, 

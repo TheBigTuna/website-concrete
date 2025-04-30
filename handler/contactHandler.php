@@ -20,6 +20,7 @@ $Email = mysqli_real_escape_string($conn, $_POST['Email']);
 $PhoneNumber = mysqli_real_escape_string($conn, $_POST['PhoneNumber']);
 // $Subject = mysqli_real_escape_string($conn, $_POST['Subject']);
 $Message = mysqli_real_escape_string($conn, $_POST['Message']);
+$currentPage = mysqli_real_escape_string($conn, $_POST['currentPage']);
 $Timestamp =  mysqli_real_escape_string($conn, date('Y-m-d H:i:s'));
 
 // $InsertMessage = "INSERT INTO omoore94_template.contactsubmit (ID, Name, Email, PhoneNumber, Subject, Message, Timestamp) VALUES ('$ID', '$Name', '$Email', '$PhoneNumber', '$Subject', '$Message', '$Timestamp');";  
