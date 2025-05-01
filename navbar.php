@@ -31,10 +31,11 @@
 			<div class="row">
 				<div class="col-12">
 					<nav class="navbar navbar-expand-md navbar-light">
-						<a class="navbar-brand" href="/"><img src="/logo.svg"></a>	
+						<!-- <a class="navbar-brand" href="/"><img src="/logo.svg"></a>	 -->
 						<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 							<span class="navbar-toggler-icon"></span>
 						</button>
+						<span style="font-size: 1.6rem; font-weight: 700;"><img style="width: 2.1rem;" src="/svg/phone-fill.svg"></i>(313)555-5555</span>
 						
 						<div class="collapse navbar-collapse" id="navbarSupportedContent">
 							<ul class="navbar-nav ml-auto py-4 py-md-0">
@@ -47,7 +48,7 @@
 								<li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4 d-block d-lg-none">
 									<a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Services</a>
 									<div class="dropdown-menu">
-										<a class="dropdown-item">Services</a>
+										<!-- <a class="dropdown-item">Services</a> -->
 										<a class="dropdown-item" href="/pages/services/concrete-driveway.php">Driveways</a>
 										<a class="dropdown-item" href="/pages/services/concrete-commercial.php">Commercial</a>
 										<a class="dropdown-item" href="/pages/services/concrete-foundation.php">Foundations</a>

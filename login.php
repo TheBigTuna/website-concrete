@@ -23,7 +23,8 @@
         <div class="col-12 col-sm-6">
             <div id="lessons">
                 <div class="text-center mb-4">
-                    <a href="/"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/1462889/logo.svg" style="height: 7rem; width: 7rem;" alt=""></a>	
+                    <!-- <a href="/"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/1462889/logo.svg" style="height: 7rem; width: 7rem;" alt=""></a>	 -->
+                    (313)555-5555
                 </div>  
                 <ul class="list-group">
                 <h5 id="paymentInformationTitle">Please Sign In</h5>

@@ -4,7 +4,8 @@
     <div class="container">
         <div class="row">
             <div class="col-xs-12 col-lg-6">
-                <a class="navbar-brand" href="/"><img src="/logo.svg"></a>	
+                <!-- <a class="navbar-brand" href="/"><img src="/logo.svg"></a>	 -->
+                <span style="font-size: 1.6rem; font-weight: 700;"><img style="width: 2.1rem;" src="/svg/phone-fill.svg"></i>(313)555-5555</span>
                 <!-- <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                     Praesent at nisi ultricies, lobortis erat id, vulputate quam.
@@ -12,7 +13,6 @@
                     Morbi congue sed odio eget laoreet.
                     Mauris et ligula erat. Sed a sodales tortor. 
                 </p> -->
-                <h6 id="footerCompanyPhoneNumber">(313)555-5555</h6>
                 <!-- <h6 id="footerCompanyEmail">Email</h6> -->
             </div>
             <div class="col-xs-12 col-lg-6">

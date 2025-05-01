@@ -10,7 +10,6 @@
                         <h1 id="contactUsHeadText">Contact Us</h1>
                     </div>
                     <div class="mt-5">
-                    <h3 class="contactUsSubTitles">Call Us: 313-555-5555</h3>
                         <p class="contactUsTexts">
                             If you’re looking for expert installation of a concrete walkway, driveway, or patio, you’ve come to the right place—.............. Concrete. 
                             Our team of skilled, professional contractors is fully equipped to handle all your concrete needs efficiently and effectively. 
