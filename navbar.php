@@ -10,16 +10,8 @@
               <!-- <meta name="author" content="<?= $_SESSION['ArticleAuthor']; ?>"> -->
               <!-- <link rel="icon" href="/images/halfLogo.png"> -->
               <link href="/style/bootstrap.css" rel="stylesheet">
-			  <!-- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous"/> -->
               <link href="/style/font-awesome.min.css" rel="stylesheet">
-              <link href="/style/animate.css" rel="stylesheet">
               <link href="/style/main.css" rel="stylesheet">
-              <!-- <link href="/style/pricing.css" rel="stylesheet">
-              <link href="/style/gnome.css" rel="stylesheet">
-              <link href="/style/sun.css" rel="stylesheet">
-              <link href="/style/clouds.css" rel="stylesheet">
-              <link href="/style/bear.css" rel="stylesheet">
-              <link href="/style/stripe.css" rel="stylesheet"> -->
               <script src="/script/jquery-3.4.1.js"></script>
               <script src="/script/bootstrap.js"></script>
         </head>

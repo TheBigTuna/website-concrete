@@ -3,7 +3,7 @@
 <div id="footerContainer">
     <div class="container">
         <div class="row">
-            <div class="col-xs-12 col-lg-6">
+            <div class="col-12 col-xl-6">
                 <!-- <a class="navbar-brand" href="/"><img src="/logo.svg"></a>	 -->
                 <span style="font-size: 1.6rem; font-weight: 700;"><img style="width: 2.1rem;" src="/svg/phone-fill.svg"></i>(313)555-5555</span>
                 <!-- <p>
@@ -15,7 +15,7 @@
                 </p> -->
                 <!-- <h6 id="footerCompanyEmail">Email</h6> -->
             </div>
-            <div class="col-xs-12 col-lg-6">
+            <div class="col-12 col-xl-6">
                 <div class="row">
                     <div class="col-4">
                         <ul class="list-group list-unstyled">
@@ -26,9 +26,9 @@
                     </div>
                     <div class="col-4">
                         <ul class="list-group list-unstyled">
-                            <li><a class="list-group-item border-0" href="#"><h6>Service Info #1</h6></a></li>
-                            <li><a class="list-group-item border-0" href="#"><h6>Service Info #2</h6></a></li>
-                            <li><a class="list-group-item border-0" href="#"><h6>Service Info #3</h6></a></li>
+                            <li><a class="list-group-item border-0" href="/pages/services/sidewalks.php"><h6>Sidewalks</h6></a></li>
+                            <!-- <li><a class="list-group-item border-0" href="#"><h6>Service Info #2</h6></a></li>
+                            <li><a class="list-group-item border-0" href="#"><h6>Service Info #3</h6></a></li> -->
                         </ul>
                     </div>
                     <div class="col-4">

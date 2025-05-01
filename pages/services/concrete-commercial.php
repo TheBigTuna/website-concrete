@@ -3,6 +3,17 @@
 
 <div id="servicesContainer">
     <div id="servicesWrapper">
+        <section class="mobile-contact d-xl-none mt-5">
+            <div class="container">
+                <div class="row">
+                    <div class="col-1"></div>
+                    <div class="col-10">
+                        <?php include('../../resources/contact-mobile.php'); ?>
+                    </div>
+                    <div class="col-1"></div>
+                </div>
+            </div>
+        </section>
         <div class="container">
             <div class="row">
                 <div class="col-12 col-xl-8">
@@ -22,7 +33,7 @@
                         <hr>
                     </div>
                 </div>
-                <div class="col-lg-4 d-none d-xl-block">
+                <div class="col-4 d-none d-xl-block">
                     <?php include('../../resources/contact.php'); ?>
                 </div>
             </div>
