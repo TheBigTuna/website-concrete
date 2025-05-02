@@ -81,7 +81,13 @@
     box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.3);
   }
 
+  .pricing .card img{
+    max-height: 125px; 
+    object-fit: cover;
+  }
+
   .pageText{
     font-size: 1.05rem;
     text-indent: 2rem;
   }
+

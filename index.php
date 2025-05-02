@@ -141,10 +141,12 @@
                             <div class="card-body">
                                 <h5 class="card-title text-uppercase text-center">Concrete Is Cost-Effective</h5>
                                 <hr>
-                                Concrete is one of the most widely available and affordable construction materials globally. 
-                                Compared to polymers, steel, and other cement-based products, its production costs are significantly lower. 
-                                The primary components—aggregates, water, and cement—are easily sourced and generally inexpensive in most local markets, 
-                                making concrete a highly economical choice for a wide range of construction projects.
+                                <p>
+                                    Concrete is one of the most widely available and affordable construction materials globally. 
+                                    Compared to polymers, steel, and other cement-based products, its production costs are significantly lower. 
+                                    The primary components—aggregates, water, and cement—are easily sourced and generally inexpensive in most local markets, 
+                                    making concrete a highly economical choice for a wide range of construction projects.
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -191,28 +193,28 @@
                             <div class="col-12 col-xl-3">
                                 <div class="card mb-5 mb-lg-0">
                                     <div class="card-body">
-                                        <img src="images/concrete-img-1.jpg" width="100%;"/>
+                                        <img src="images/concrete-img-1.jpg" width="100%;" />
                                     </div>
                                 </div>
                             </div>
                             <div class="col-12 col-xl-3">
                                 <div class="card mb-5 mb-lg-0">
                                     <div class="card-body">
-                                        <img src="images/concrete-img-2.jpg" width="100%;"/>
+                                        <img src="images/concrete-driveway-5.jpg" width="100%;" />
                                     </div>
                                 </div>
                             </div>
                             <div class="col-12 col-xl-3">
                                 <div class="card mb-5 mb-lg-0">
                                     <div class="card-body">
-                                        <img src="images/concrete-img-2.jpg" width="100%;"/>
+                                        <img src="images/concrete-img-5.jpeg" width="100%;" />
                                     </div>
                                 </div>
                             </div>
                             <div class="col-12 col-xl-3">
                                 <div class="card mb-5 mb-lg-0">
                                     <div class="card-body">
-                                        <img src="images/concrete-img-4.jpg" width="100%;"/>
+                                        <img src="images/concrete-img-4.jpg" width="100%;" />
                                     </div>
                                 </div>
                             </div>

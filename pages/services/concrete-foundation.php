@@ -19,10 +19,9 @@
                 <div class="col-12 col-xl-8">
                     <div class="mt-5">
                         <h1 id="servicesHeadText">Foundations</h1>
-                        <h3 id="servicesSubText">The right foundation ensures long-term stability, safety, and performance.</h3>
+                        <!-- <h3 id="servicesSubText">The right foundation ensures long-term stability, safety, and performance.</h3> -->
                     </div>
-                    <div>
-                        <h3 class="servicesSubTitles">Lorem ipsum dolor sit amet</h3>
+                    <div class="mt-5">
                         <p class="servicesTexts">
                         At ....................., we’ve quickly become a trusted name in concrete foundation services throughout Jacksonville and Duval County.
                         While we may be a relatively new name in the industry, our team brings a wealth of expertise, modern techniques, and state-of-the-art equipment to every project.
@@ -46,33 +45,27 @@
                             A concrete foundation provides strong, long-lasting support for both residential and commercial structures. 
                             Atc......................, we pride ourselves on being one of ............ top concrete slab contractors, 
                             delivering durable and dependable foundations built to last for years. 
-                            Here are some key benefits of choosing a concrete foundation for your home or business.
                         </p>
                 </div>
                 <div class="col-0 col-xl-4"></div>
             </div>
             <div class="row">
-                <div class="col-xl-8">
+                <div class="col-0 col-xl-1"></div>
+                <div class="col-12 col-xl-5">
                     <div class="servicesSection">
-                        <h3 class="servicesSubTitles">Lorem ipsum dolor sit amet</h3>
-                        <p class="servicesTexts text-center">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                            Praesent at nisi ultricies, lobortis erat id, vulputate quam. 
-                            Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;
-                            Morbi congue sed odio eget laoreet. Mauris et ligula erat. Sed a sodales tortor.
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        </p>
+                        <h3 class="servicesSubTitles mt-5">The right foundation ensures long-term stability, safety, and performance.</h3>
                     </div>
                 </div>
-                <div class="col-xl-4">
-                    <div class="card mb-5 mb-lg-0">
+                <div class="col-12 col-xl-5">
+                    <div class="card mb-5">
                         <div class="card-body">
-                            <img src="../../images/concrete-img-2.jpg" width="100%;"/>
+                            <img src="../../images/concrete-foundation-1.jpg" width="100%;"/>
                         </div>
                     </div>
                 </div>
+                <div class="col-0 col-xl-3"></div>
             </div>
-            <div class="row">
+            <!-- <div class="row">
                 <div class="col-12">
                     <div class="servicesSection">
                         <h3 class="servicesSubTitles">Lorem ipsum dolor sit amet</h3>
@@ -85,7 +78,7 @@
                         </p>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
         <section class="pricing py-5">
             <div class="container">

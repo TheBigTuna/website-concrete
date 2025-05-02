@@ -1,9 +1,14 @@
-<?php session_start(); ?>
+<?php 
+session_start(); 
+include("resources/connection.php");
+include("php/page-info.php");
+$_SESSION['current_page'] =  $Website_name . " Concrete Services";
+?>
 <!DOCTYPE html>
     <html lang="en">
         <head>
-          	  <?php include("resources/connection.php"); ?>
-              <!-- <title><?= $_SESSION['CurrentPage']; ?></title> -->
+			  <title><?= $_SESSION['current_page']; ?></title>
+			  <?php echo $_SERVER['REQUEST_URI']; ?>
               <meta charset="UTF-8">
               <meta name="viewport" content="width=device-width, initial-scale=1">
               <!-- <meta name='description' content="<?= $_SESSION['Description']; ?>">             -->
@@ -18,7 +23,7 @@
 
 
         
-	<div class="navigation-wrap bg-light start-header start-style">
+	<div class="navigation-wrap bg-light start-header start-style d-none">
 		<div class="container">
 			<div class="row">
 				<div class="col-12">
@@ -27,7 +32,7 @@
 						<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 							<span class="navbar-toggler-icon"></span>
 						</button>
-						<span style="font-size: 1.6rem; font-weight: 700;"><img style="width: 2.1rem;" src="/svg/phone-fill.svg"></i>(313)555-5555</span>
+						<span style="font-size: 1.6rem;"><img style="width: 2.1rem;" src="/svg/phone-fill.svg"></i>(313)555-5555</span>
 						
 						<div class="collapse navbar-collapse" id="navbarSupportedContent">
 							<ul class="navbar-nav ml-auto py-4 py-md-0">

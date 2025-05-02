@@ -80,7 +80,7 @@
                 <div class="col-xl-4">
                     <div class="card mb-5 mb-lg-0">
                         <div class="card-body">
-                            <img src="../../images/concrete-img-2.jpg" width="100%;"/>
+                            <img src="../../images/concrete-driveway-1.jpg" width="100%;"/>
                         </div>
                     </div>
                 </div>
@@ -90,14 +90,14 @@
                     <div class="col-xl-4">
                         <div class="card mb-5 mb-lg-0">
                             <div class="card-body">
-                                <img src="../../images/concrete-img-2.jpg" width="100%;"/>
+                                <img src="../../images/concrete-driveway-2.jpg" width="100%;"/>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-4">
                         <div class="card mb-5 mb-lg-0">
                             <div class="card-body">
-                                <img src="../../images/concrete-img-2.jpg" width="100%;"/>
+                                <img src="../../images/concrete-driveway-3.jpg" width="100%;"/>
                             </div>
                         </div>
                     </div>

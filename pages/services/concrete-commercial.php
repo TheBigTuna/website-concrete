@@ -61,7 +61,7 @@
                 </div>
                 <div class="col-0 col-xl-4"></div>
             </div>
-            <div class="row">
+            <!-- <div class="row">
                 <div class="col-12">
                     <div class="servicesSection">
                         <h3 class="servicesSubTitles">Lorem ipsum dolor sit amet</h3>
@@ -88,8 +88,8 @@
                         </p>
                     </div>
                 </div>
-            </div>
-            <section class="pricing py-5">
+            </div> -->
+            <!-- <section class="pricing py-5">
                 <div class="row">
                     <div class="col-xl-4">
                         <div class="card mb-5 mb-lg-0">
@@ -113,7 +113,7 @@
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> -->
         </div>
     </div>
     <div class="row"></div>
