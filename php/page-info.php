@@ -5,56 +5,41 @@ $Website_name = "Example Concrete";
 
 
 // This page hold any information needed for the current page
-
-
+if(strpos($_SERVER['REQUEST_URI'],"/") > -1 || strpos($_SERVER['REQUEST_URI'],"index.php") > -1){
+    $_SESSION['current_page'] = $Website_name . " | Concrete Services";
+    $_SESSION['Description'] = "If you need a contractor for concrete services near Detroit, MI, call us!";
+}
+if(strpos($_SERVER['REQUEST_URI'],"concrete-driveway")){
+    $_SESSION['current_page'] = $Website_name . " | Concrete Driveway Services";
+    $_SESSION['Description'] = "If you need a contractor for a your concrete driveway services near Detroit, MI, call us!";
+}
+if(strpos($_SERVER['REQUEST_URI'],"concrete-commercial")){
+    $_SESSION['current_page'] = $Website_name . " | Concrete Commercial Services";
+    $_SESSION['Description'] = "If you need a contractor for commercial concrete project services near Detroit, MI, call us!";
+}
+if(strpos($_SERVER['REQUEST_URI'],"concrete-foundation")){
+    $_SESSION['current_page'] = $Website_name . " | Concrete Foundation Services";
+    $_SESSION['Description'] = "If you need a contractor for concrete foundation services near Detroit, MI, call us!";
+}
+if(strpos($_SERVER['REQUEST_URI'],"sidewalks")){
+    $_SESSION['current_page'] = $Website_name . " | Concrete Sidewalk Services";
+    $_SESSION['Description'] = "If you need a contractor for concrete sidewalk services near Detroit, MI, call us!";
+}
+if(strpos($_SERVER['REQUEST_URI'],"faq")){
+    $_SESSION['current_page'] = $Website_name . " | Concrete FAQ";
+    $_SESSION['Description'] = "If you need a contractor for concrete services near Detroit, MI, call us!";
+}
+if(strpos($_SERVER['REQUEST_URI'],"faq")){
+    $_SESSION['current_page'] = $Website_name . " | Concrete FAQ";
+    $_SESSION['Description'] = "If you need a contractor for concrete services near Detroit, MI, call us!";
+}
+if(strpos($_SERVER['REQUEST_URI'],"contact-us")){
+    $_SESSION['current_page'] = $Website_name . " | Contact";
+    $_SESSION['Description'] = "If you need a contractor for concrete services near Detroit, MI, call us!";
+}
 // Depending on the page apply the appropiate title
-// if(strpos($_SERVER['REQUEST_URI'],"/admin") > -1){
-//     $_SESSION['CurrentPage'] = "admin - animerooms";
-//     $_SESSION['Description'] = "Welcome to animerooms, a place where you can come to learn and talk anything anime and manga related.";
-//     if(strpos($_SERVER['REQUEST_URI'],"index.php") == False){
-//         verifyAdmin();
-//     }
-// }
-// else if(strpos($_SERVER['REQUEST_URI'],"/")){
-//     $_SESSION['CurrentPage'] = "animerooms";
-//     $_SESSION['Description'] = "Welcome to animerooms, a place where you can come to learn and talk anything anime and manga related.";
-// }
-// else if(strpos($_SERVER['REQUEST_URI'],"/index.php")){
-//     $_SESSION['CurrentPage'] = "home - animerooms";
-//     $_SESSION['Description'] = "Welcome to animerooms, a place where you can come to learn and talk anything anime and manga related.";
-// }
-// else if(strpos($_SERVER['REQUEST_URI'],"/lifestyle.php")){
-//     $_SESSION['CurrentPage'] = "lifestyle - animerooms";
-//     $_SESSION['Description'] = "Welcome to animerooms, a place where you can come to learn and talk anything anime and manga related.";
-// }
-// else if(strpos($_SERVER['REQUEST_URI'],"/contact.php")){
-//     $_SESSION['CurrentPage'] = "contact - animerooms";
-//     $_SESSION['Description'] = "Welcome to animerooms, a place where you can come to learn and talk anything anime and manga related.";
-// }
-// else if(strpos($_SERVER['REQUEST_URI'],"/anime.php")){
-//     $_SESSION['CurrentPage'] = "anime - animerooms";
-//     $_SESSION['Description'] = "Welcome to animerooms, a place where you can come to learn and talk anything anime and manga related.";
-// }
-// else if(strpos($_SERVER['REQUEST_URI'],"/manga.php")){
-//     $_SESSION['CurrentPage'] = "manga - animerooms";
-//     $_SESSION['Description'] = "Welcome to animerooms, a place where you can come to learn and talk anything anime and manga related.";
-// }
-// else if(strpos($_SERVER['REQUEST_URI'],"/about.php")){
-//     $_SESSION['CurrentPage'] = "about - animerooms";
-//     $_SESSION['Description'] = "Welcome to animerooms, a place where you can come to learn and talk anything anime and manga related.";
-// }
-// else if(strpos($_SERVER['REQUEST_URI'],"/news.php")){
-//     $_SESSION['CurrentPage'] = "news - animerooms";
-//     $_SESSION['Description'] = "Welcome to animerooms, a place where you can come to learn and talk anything anime and manga related.";
-// }
-// else if(strpos($_SERVER['REQUEST_URI'],"/privacyPage.php")){
-//     $_SESSION['CurrentPage'] = "privacy - animerooms";
-//     $_SESSION['Description'] = "Welcome to animerooms, a place where you can come to learn and talk anything anime and manga related.";
-// }
-// else if(strpos($_SERVER['REQUEST_URI'],"randomnamegenerator.php")){
-//     $_SESSION['CurrentPage'] = "random name - animerooms";
-//     $_SESSION['Description'] = "Welcome to animerooms, a place where you can come to learn and talk anything anime and manga related.";
-// }
+
+
 // else if(strpos($_SERVER['REQUEST_URI'],"/article.php") > -1){
 //     // Query to fetch currently available articles
 //     $ID = mysqli_real_escape_string($conn, $_GET['ID']);
@@ -157,7 +142,7 @@ function createSlug($Url,$Var){
     return $Slug;
 } 
 
-// echo http_build_query(createSlug($_SERVER['REQUEST_URI'],$_GET));
+// echo  http_build_query(createSlug($_SERVER['REQUEST_URI'],$_GET));
 // $Slug = createSlug($_SERVER['REQUEST_URI'],$_GET);
 // http_build_query($Slug);
 

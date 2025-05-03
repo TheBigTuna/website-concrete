@@ -19,14 +19,13 @@
                 <div class="col-12 col-xl-8">
                     <div class="mt-5">
                         <h1 id="servicesHeadText">Driveways</h1>
+                        <h3 class="servicesSubTitles">Your Trusted Partner for Concrete Solutions</h3>
                         <p class="servicesTexts">
                             Is Your Concrete Driveway Showing Signs of Wear and Tear?
                             Cracks, crumbling edges, or surface deterioration can all be signs that your driveway is in need of attention. 
                             From harsh weather changes to the weight of heavy vehicles and equipment, several factors can take a toll on your concrete over time.
                             No matter the cause, ........ Concrete Contractors are here to help! 
                             We specialize in diagnosing and repairing driveway damage, restoring both function and curb appeal with reliable, high-quality solutions.
-
-
                         </p>
                         <hr>
                     </div>

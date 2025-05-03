@@ -5,7 +5,7 @@
         <div class="row">
             <div class="col-12 col-xl-6">
                 <!-- <a class="navbar-brand" href="/"><img src="/logo.svg"></a>	 -->
-                <span style="font-size: 1.6rem; font-weight: 700;"><img style="width: 2.1rem;" src="/svg/phone-fill.svg"></i>(313)555-5555</span>
+                <a href="/" class="nav-number-link"><span style="font-size: 1.6rem;"><img style="width: 2.1rem;" src="/svg/phone-fill.svg"></i>(313)555-5555</span></a>
                 <!-- <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                     Praesent at nisi ultricies, lobortis erat id, vulputate quam.

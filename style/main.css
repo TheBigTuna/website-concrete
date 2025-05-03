@@ -396,3 +396,14 @@ body{
     font-size: 1.05rem;
     text-indent: 2rem;
   }
+
+  .nav-number-link{
+	  color: inherit;
+	  text-decoration: none;
+	  font-family: 'Nunito', sans-serif;
+  }
+
+  .nav-number-link:hover{
+	color: inherit;
+	text-decoration: none;
+}

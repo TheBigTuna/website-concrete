@@ -50,3 +50,8 @@
     position: absolute;
     z-index: 1;
   }
+
+  .servicesSubTitles{
+    text-align: center;
+    font-weight: 700;
+}

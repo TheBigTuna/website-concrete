@@ -21,7 +21,7 @@
                         <h1 id="servicesHeadText">Sidewalks</h1>
                     </div>
                     <div>
-                        <h3 class="servicesSubTitles">Your Trusted Partner for Commercial Concrete Solutions</h3>
+                        <h3 class="servicesSubTitles">Your Trusted Partner for Concrete Solutions</h3>
                         <p class="servicesTexts">
                             A concrete pathway or walkway provides a convenient and safe route from the road to your home or business, making daily access easier and more secure. 
                             In addition to its functionality, a well-designed walkway significantly enhances curb appeal and adds lasting value to your property.
@@ -37,20 +37,6 @@
                 </div>
                 <div class="col-4 d-none d-xl-block">
                     <?php include('../../resources/contact.php'); ?>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-12">
-                    <div class="servicesSection">
-                        <h3 class="servicesSubTitles">Lorem ipsum dolor sit amet</h3>
-                        <p class="servicesTexts text-center">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                            Praesent at nisi ultricies, lobortis erat id, vulputate quam. 
-                            Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;
-                            Morbi congue sed odio eget laoreet. Mauris et ligula erat. Sed a sodales tortor.
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        </p>
-                    </div>
                 </div>
             </div>
             <div class="row">

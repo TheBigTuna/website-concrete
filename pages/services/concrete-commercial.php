@@ -21,7 +21,7 @@
                         <h1 id="servicesHeadText">Commercial</h1>
                     </div>
                     <div>
-                        <h3 class="servicesSubTitles">Your Trusted Partner for Commercial Concrete Solutions</h3>
+                        <h3 class="servicesSubTitles">Your Trusted Partner for Concrete Solutions</h3>
                         <p class="servicesTexts">
                         Today, concrete has become the go-to material for corporate buildings and commercial spaces—and for good reason. 
                         Known for its strength and longevity, concrete is now also recognized for its design versatility. While it wasn’t always the most aesthetically appealing option, advancements in materials and techniques have transformed concrete into a stylish and durable solution for modern commercial projects.
@@ -40,7 +40,7 @@
             <div class="row">
                 <div class="col-12 col-xl-8">
                     <h3 class="servicesSubTitles">Commercial Concrete Services</h3>
-                    <p class="servicesTexts">At JAX Concrete Contractors, we specialize in a wide range of commercial concrete solutions tailored to meet the demands of businesses and commercial properties. Our core services include:</p>
+                    <p class="servicesTexts">At .............., we specialize in a wide range of commercial concrete solutions tailored to meet the demands of businesses and commercial properties. Our core services include:</p>
                     <ul>
                         <li>Foundations</li>
                         <li>Retaining Walls</li>
@@ -57,7 +57,7 @@
                         <li>Retail Stores</li>
                         <li>Sidewalks</li>
                     </ul>
-                    <p class="servicesTexts">No matter the scale of your project, our team is equipped to deliver durable, high-quality results that stand the test of time.</p>
+                    <p class="servicesTexts font-weight-bold">No matter the scale of your project, our team is equipped to deliver durable, high-quality results that stand the test of time.</p>
                 </div>
                 <div class="col-0 col-xl-4"></div>
             </div>

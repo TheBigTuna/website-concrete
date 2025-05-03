@@ -19,20 +19,16 @@
                 <div class="col-12 col-xl-8">
                     <div class="mt-5">
                         <h1 id="servicesHeadText">Foundations</h1>
-                        <!-- <h3 id="servicesSubText">The right foundation ensures long-term stability, safety, and performance.</h3> -->
+                        <h3 class="servicesSubTitles">Your Trusted Partner for Concrete Solutions</h3>
                     </div>
-                    <div class="mt-5">
                         <p class="servicesTexts">
                         At ....................., we’ve quickly become a trusted name in concrete foundation services throughout Jacksonville and Duval County.
                         While we may be a relatively new name in the industry, our team brings a wealth of expertise, modern techniques, and state-of-the-art equipment to every project.
                         We understand that a solid, reliable foundation is the cornerstone of any home or commercial structure.
                         That’s why we’re committed to delivering concrete foundations that are built to last—ensuring strength, stability, and long-term durability.
                         When you choose ....................., you're choosing quality craftsmanship and a team that stands behind its work.
-
-
                         </p>
                         <hr>
-                    </div>
                 </div>
                 <div class="col-4 d-none d-xl-block">
                     <?php include('../../resources/contact.php'); ?>
