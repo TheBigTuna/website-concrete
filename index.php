@@ -10,7 +10,7 @@
                 <div class="row">
                     <div class="col-8">
                         <div class="mt-5">
-                            <h2 id="headText">Metro Detroit Concrete</h2>
+                            <h2 id="headText">Warren Concrete</h2>
                             <h2 id="subText">We can increase the value of your home or business with quality concrete services.</h2>
                         </div>
                     </div>
@@ -39,11 +39,11 @@
         <div class="col-12 col-xl-10">
             <section class="siteInfo py-5">
                 <div class="container">
-                    <h1 class="font-weight-bold text-center">Welcome to Metro Detroit Concrete Contractors</h1>
+                    <h1 class="font-weight-bold text-center">Welcome to Warren Concrete</h1>
                     <h3 class="mt-4 text-center">Looking for reliable and affordable concrete contractors? You’ve come to the right place!</h3>
                     <div class="mt-5">
                         <p class="pageText">
-                            At Metro Detroit Concrete Contractors, we’re proud to be one of the most trusted and top-rated concrete companies in Michigan. 
+                            At the Warren Concrete Contractors, we’re proud to be one of the most trusted and top-rated concrete companies in Michigan. 
                             We specialize in delivering affordable, durable, and stylish concrete solutions for both residential and commercial properties.
                             Whether you're upgrading your home's apperance or starting a large-scale commercial project, our expert team is here to help.
                             Concrete is a highly versatile material, ideal for patios, driveways, sidewalks, foundations, slabs, and custom features. 
@@ -67,8 +67,10 @@
                         <div class="col-lg-6">
                             <h3 class="font-weight-bold text-center">Metro Detroit's Trusted Concrete Driveway & Construction Experts</h3>
                             <p class="pageText">
-                                We are your go-to source for high-quality concrete driveway installation and dependable concrete services for both homeowners and businesses. We specialize in custom concrete driveways, patios, slabs, and even concrete removal—delivering reliable, cost-effective solutions tailored to your construction needs.
-                                Our experienced team is committed to providing top-tier concrete construction, using premium materials and state-of-the-art techniques to ensure lasting durability and visual appeal. Whether you're building a new home, upgrading your commercial space, or replacing an old driveway, we deliver results that stand the test of time.
+                                We are your go-to source for high-quality concrete driveway installation and dependable concrete services for both homeowners and businesses.
+                                We specialize in custom concrete driveways, patios, slabs, and even concrete removal—delivering reliable, cost-effective solutions tailored to your construction needs.
+                                Our experienced team is committed to providing top-tier concrete construction, using premium materials and state-of-the-art techniques to ensure lasting durability and visual appeal.
+                                Whether you're building a new home, upgrading your commercial space, or replacing an old driveway, we deliver results that stand the test of time.
                             </p>
                             <p class="pageText">
                                 Our Concrete Contractors, take pride in our workmanship, punctuality, and customer-focused approach. 
@@ -85,16 +87,17 @@
                     <div class="row">
                         <div class="col-lg-8">
                             <p class="pageText">
-                                As one of the top-rated concrete contractors Metro Detroit Concrete Contractors takes pride in delivering high-quality, durable, and visually appealing concrete driveways that enhance both residential and commercial properties.
+                                As one of the top-rated concrete contractors Warren Concrete Contractors takes pride in delivering high-quality, durable, and visually appealing concrete driveways that enhance both residential and commercial properties.
                                 Your satisfaction is our top priority, 
                                 and we take the time to carefully plan each project to match your unique needs and preferences.
                                 Whether you’re looking to install a brand-new concrete driveway, replace an old one, or upgrade your existing surface, we offer custom solutions designed for long-lasting performance.
-                                Our team is committed to providing timely, accurate workmanship without sacrificing quality. No matter the size or scope of your driveway project, we’ll deliver results that combine durability, functionality, and curb appeal.
+                                Our team is committed to providing timely, accurate workmanship without sacrificing quality.
+                                No matter the size or scope of your driveway project, we’ll deliver results that combine durability, functionality, and curb appeal.
                             </p>
                             <p class="pageText">
                                 Over the years, we’ve built a solid reputation by delivering unmatched concrete driveway installation in Southeast Michigan. 
                                 Our success comes from using high-grade materials, expert supervision, and strong organizational skills that ensure every project runs smoothly from start to finish.
-                                If you're searching for reliable and affordable concrete driveway contractors Metro Detroit concrete Contractors is your go-to team. 
+                                If you're searching for reliable and affordable concrete driveway, The Warren Concrete company is your go-to team. 
                                 Let our experienced professionals bring your vision to life—with a driveway that not only looks great but stands the test of time.
                             </p>
                         </div>
@@ -176,7 +179,7 @@
                             <div class="text-center">
                                 <h3 class="font-weight-bold">We're here to provide a great service</h3>
                                 <p class="pageText">
-                                    As a dependable concrete service provider in Jacksonville and the surrounding areas, we're prepared to handle a wide variety of projects including retaining walls, foundations, flooring, resurfacing, stamped concrete, pool decks, driveways, patios, sidewalks, countertops, and more. Our team combines extensive industry knowledge with a commitment to delivering superior results every time.
+                                    As a dependable concrete service provider in Warren and the surrounding areas, we're prepared to handle a wide variety of projects including retaining walls, foundations, flooring, resurfacing, stamped concrete, pool decks, driveways, patios, sidewalks, countertops, and more. Our team combines extensive industry knowledge with a commitment to delivering superior results every time.
                                     Whether your project is residential or commercial, we approach each job with the same level of professionalism and care. 
                                 </p>
                                 <p class="pageText">

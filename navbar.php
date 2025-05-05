@@ -31,7 +31,7 @@ include("php/page-info.php");
 						<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 							<span class="navbar-toggler-icon"></span>
 						</button>
-						<a href="/" class="nav-number-link"><span style="font-size: 1.6rem;"><img style="width: 2.1rem;" src="/svg/phone-fill.svg"></i>(313)555-5555</span></a>
+						<a href="/" class="nav-number-link"><span style="font-size: 1.6rem;"><img style="width: 2.1rem;" src="/svg/phone-fill.svg"></i>(586)474-5795</span></a>
 						
 						<div class="collapse navbar-collapse" id="navbarSupportedContent">
 							<ul class="navbar-nav ml-auto py-4 py-md-0">

@@ -32,14 +32,14 @@
                             Whether you're aiming for a modern look or something more traditional, a concrete walkway can be tailored to suit your aesthetic.
                             Overall, concrete walkways offer a smart, long-term investment—improving safety, appearance, and functionality all at once.
                         </p>
-                        <hr>
+                        <!-- <hr> -->
                     </div>
                 </div>
                 <div class="col-4 d-none d-xl-block">
                     <?php include('../../resources/contact.php'); ?>
                 </div>
             </div>
-            <div class="row">
+            <!-- <div class="row">
                 <div class="col-12">
                     <div class="servicesSection">
                         <h3 class="servicesSubTitles">Lorem ipsum dolor sit amet</h3>
@@ -52,8 +52,8 @@
                         </p>
                     </div>
                 </div>
-            </div>
-            <section class="pricing py-5">
+            </div> -->
+            <!-- <section class="pricing py-5">
                 <div class="row">
                     <div class="col-xl-4">
                         <div class="card mb-5 mb-lg-0">
@@ -77,7 +77,7 @@
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> -->
         </div>
     </div>
     <div class="row"></div>

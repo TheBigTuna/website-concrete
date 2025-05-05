@@ -5,7 +5,7 @@
         <div class="row">
             <div class="col-12 col-xl-6">
                 <!-- <a class="navbar-brand" href="/"><img src="/logo.svg"></a>	 -->
-                <a href="/" class="nav-number-link"><span style="font-size: 1.6rem;"><img style="width: 2.1rem;" src="/svg/phone-fill.svg"></i>(313)555-5555</span></a>
+                <a href="/" class="nav-number-link"><span style="font-size: 1.6rem;"><img style="width: 2.1rem;" src="/svg/phone-fill.svg"></i>(586)474-5795</span></a>
                 <!-- <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                     Praesent at nisi ultricies, lobortis erat id, vulputate quam.
@@ -35,7 +35,7 @@
                         <ul class="list-group list-unstyled">
                             <li><a class="list-group-item border-0" href="/pages/faq.php"><h6>FAQ</h6></a></li>
                             <li><a class="list-group-item border-0" href="/pages/contact-us.php"><h6>Contact Us</h6></a></li>
-                            <li><a class="list-group-item border-0" href="/pages/privacy-policy.php"><h6>Privacy</h6></a></li>
+                            <!-- <li><a class="list-group-item border-0" href="/pages/privacy-policy.php"><h6>Privacy</h6></a></li> -->
                         </ul>
                     </div>
                 </div>
