@@ -1,7 +1,7 @@
 <?php
 
 // Website Name
-$Website_name = "The Warren Concrete Company";
+$Website_name = "Warren Concrete Company";
 
 
 // This page hold any information needed for the current page

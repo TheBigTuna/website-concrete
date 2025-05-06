@@ -8,6 +8,9 @@
     <fieldset>
       <input placeholder="Your Name" name="Name" type="text" tabindex="1" maxlength="50" autocomplete="off" required autofocus>
     </fieldset>
+    <fieldset style="display: none;">
+      <input placeholder="Your Email Address" name="Email" type="email" maxlength="50" autocomplete="off" tabindex="2" required>
+    </fieldset>
     <fieldset>
       <input placeholder="Your Email Address" name="Email" type="email" maxlength="50" autocomplete="off" tabindex="2" required>
     </fieldset>
