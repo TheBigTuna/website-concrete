@@ -26,7 +26,6 @@ $Timestamp =  mysqli_real_escape_string($conn, date('Y-m-d H:i:s'));
 $InsertMessage = "INSERT INTO omoore94_concrete.warren_concrete (ID, name, email, phone_number, message, current_page, timestamp) VALUES ('$ID', '$Name', '$Email', '$PhoneNumber', '$Message', '$CurrentPage', '$Timestamp');";  
 $InsertMessageResult = mysqli_query($conn, $InsertMessage);
 
-
     // Always set content-type when sending HTML email
     // $headers = "MIME-Version: 1.0" . "\r\n";
     // $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
@@ -41,13 +40,17 @@ $InsertMessageResult = mysqli_query($conn, $InsertMessage);
     // print_r($_POST);
     // echo "<br>";
 
-
+    $SendMessage = "Lead Name: " . $Name . " \n";
+    $SendMessage .= "Lead Phone Number: " . $PhoneNumber . " \n"; 
+    $SendMessage .= "Lead Email Address: " . $Email . " \n";
+    $SendMessage .=  " \n";
+    $SendMessage .= $Message;
     // Email sent to Client
     $ClientEmail = "mooreoctavius94@gmail.com";
     // $Headers = "From: mooreoctavius94@gmail.com" . "\r\n";
     $Subject = "New Lead From: Warren Concrete " . date("F j, Y, g:i a");
     // 'Reply-To: mooreoctavius94@gmail.com' . "\r\n";
-    // mail($ClientEmail, $Subject, $Message);
+    // mail($ClientEmail, $Subject, $SendMessage);
 
     // Email sent to Lead
     $UserSubject = "Thank You for submitting your quote request.";
@@ -62,7 +65,7 @@ $InsertMessageResult = mysqli_query($conn, $InsertMessage);
     // $Headers = "From: mooreoctavius94@gmail.com" . "\r\n";
     $Subject = "New Lead for Warren Concrete Company " . date("F j, Y, g:i a");
     // 'Reply-To: mooreoctavius94@gmail.com' . "\r\n";
-    mail($ClientEmail, $Subject, $Message);
+    // mail($ClientEmail, $Subject, $SendMessage);
 
 }
 header('Location: ../index.php');

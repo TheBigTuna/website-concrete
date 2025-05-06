@@ -27,8 +27,8 @@
                     <div class="col-4">
                         <ul class="list-group list-unstyled">
                             <li><a class="list-group-item border-0" href="/pages/services/sidewalks.php"><h6>Sidewalks</h6></a></li>
-                            <!-- <li><a class="list-group-item border-0" href="#"><h6>Service Info #2</h6></a></li>
-                            <li><a class="list-group-item border-0" href="#"><h6>Service Info #3</h6></a></li> -->
+                            <li><a class="list-group-item border-0" href="/pages/services/concrete-patios.php"><h6>Patios</h6></a></li>
+                            <li><a class="list-group-item border-0" href="#"><h6>Service Info #3</h6></a></li>
                         </ul>
                     </div>
                     <div class="col-4">
