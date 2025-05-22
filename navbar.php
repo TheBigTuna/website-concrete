@@ -45,9 +45,13 @@ include("php/page-info.php");
 									<a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Services</a>
 									<div class="dropdown-menu">
 										<!-- <a class="dropdown-item">Services</a> -->
+										<a class="dropdown-item" href="/pages/services/concrete-stamped.php">Stamped Concrete</a>
 										<a class="dropdown-item" href="/pages/services/concrete-driveway.php">Driveways</a>
+										<a class="dropdown-item" href="/pages/services/concrete-driveway-repair.php">Driveway Repair</a>
 										<a class="dropdown-item" href="/pages/services/concrete-commercial.php">Commercial</a>
-										<a class="dropdown-item" href="/pages/services/concrete-foundation.php">Foundations</a>
+										<a class="dropdown-item" href="/pages/services/concrete-foundation.php">Foundation</a>
+										<a class="dropdown-item" href="/pages/services/concrete-slabs.php">Slabs</a>
+										<a class="dropdown-item" href="/pages/services/concrete-repair-and-resurfacing.php">Repair and Resurfacing</a>
 										<a class="dropdown-item" href="/pages/services/sidewalks.php">Sidewalks</a>
 										<a class="dropdown-item" href="/pages/services/concrete-patio.php">Patios</a>
 									</div>
@@ -55,9 +59,13 @@ include("php/page-info.php");
 								<li class="nav-item dropdown pl-4 pl-md-0 ml-0 ml-md-4 d-none d-lg-block">
 									<a class="nav-link dropdown-toggle">Services</a>
 									<div class="dropdown-menu">
+										<a class="dropdown-item" href="/pages/services/concrete-stamped.php">Stamped Concrete</a>
 										<a class="dropdown-item" href="/pages/services/concrete-driveway.php">Driveways</a>
+										<a class="dropdown-item" href="/pages/services/concrete-driveway-repair.php">Driveway Repair</a>
 										<a class="dropdown-item" href="/pages/services/concrete-commercial.php">Commercial</a>
-										<a class="dropdown-item" href="/pages/services/concrete-foundation.php">Foundations</a>
+										<a class="dropdown-item" href="/pages/services/concrete-foundation.php">Foundation</a>
+										<a class="dropdown-item" href="/pages/services/concrete-slabs.php">Slabs</a>
+										<a class="dropdown-item" href="/pages/services/concrete-repair-and-resurfacing.php">Repair and Resurfacing</a>
 										<a class="dropdown-item" href="/pages/services/sidewalks.php">Sidewalks</a>
 										<a class="dropdown-item" href="/pages/services/concrete-patio.php">Patios</a>
 									</div>

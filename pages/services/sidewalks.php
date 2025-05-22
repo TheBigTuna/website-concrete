@@ -82,4 +82,4 @@
     </div>
     <div class="row"></div>
 </div>
-<?php include('../../resources/footer.php'); ?>
+<?php // include('../../resources/footer.php'); ?>
