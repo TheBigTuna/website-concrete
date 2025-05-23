@@ -54,8 +54,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-0 col-xl-1"></div>
-                <div class="col-12 col-xl-10">
+                <div class="col-12 col-xl-8">
                     <h3 class="servicesSubTitles mt-5">Revitalize Your Floors with Expert Repair & Resurfacing</h3>
                     <p class="servicesTexts">
                         Make your old floors look brand new without the cost of full replacement.
@@ -83,7 +82,7 @@
                         <li>Minimal disruption to your home or business</li>
                     </ul> 
                 </div>
-                <div class="col-0 col-xl-1"></div>
+                <div class="col-0 col-xl-4"></div>
             </div>
         </div>
     </div>

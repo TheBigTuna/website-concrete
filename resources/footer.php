@@ -35,6 +35,7 @@
                     </div>
                     <div class="col-4">
                         <ul class="list-group list-unstyled">
+                            <li><a class="list-group-item border-0" href="/pages/services/concrete-cutting.php"><h6>Cutting</h6></a></li>
                             <li><a class="list-group-item border-0" href="/pages/services/concrete-repair-and-resurfacing.php"><h6>Repair and Resurfacing</h6></a></li>
                             <li><a class="list-group-item border-0" href="/pages/faq.php"><h6>FAQ</h6></a></li>
                             <li><a class="list-group-item border-0" href="/pages/contact-us.php"><h6>Contact Us</h6></a></li>

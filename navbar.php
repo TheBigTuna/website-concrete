@@ -31,7 +31,10 @@ include("php/page-info.php");
 						<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 							<span class="navbar-toggler-icon"></span>
 						</button>
-						<a href="/" class="nav-number-link"><span style="font-size: 1.6rem;"><img style="width: 2.1rem;" src="/svg/phone-fill.svg"></i>(586)474-5795</span></a>
+						<!-- Monbile Link -->
+						<a href="tel:+15864745795" class="nav-number-link  d-block d-lg-none"><span style="font-size: 1.6rem;"><img style="width: 2.1rem;" src="/svg/phone-fill.svg"></i>(586)474-5795</span></a>
+						<!-- Desktop Link -->
+						<a href="/" class="nav-number-link d-none d-lg-block"><span style="font-size: 1.6rem;"><img style="width: 2.1rem;" src="/svg/phone-fill.svg"></i>(586)474-5795</span></a>
 						
 						<div class="collapse navbar-collapse" id="navbarSupportedContent">
 							<ul class="navbar-nav ml-auto py-4 py-md-0">
@@ -51,6 +54,7 @@ include("php/page-info.php");
 										<a class="dropdown-item" href="/pages/services/concrete-commercial.php">Commercial</a>
 										<a class="dropdown-item" href="/pages/services/concrete-foundation.php">Foundation</a>
 										<a class="dropdown-item" href="/pages/services/concrete-slabs.php">Slabs</a>
+										<a class="dropdown-item" href="/pages/services/concrete-cutting.php">Cutting</a>
 										<a class="dropdown-item" href="/pages/services/concrete-repair-and-resurfacing.php">Repair and Resurfacing</a>
 										<a class="dropdown-item" href="/pages/services/sidewalks.php">Sidewalks</a>
 										<a class="dropdown-item" href="/pages/services/concrete-patio.php">Patios</a>
@@ -65,6 +69,7 @@ include("php/page-info.php");
 										<a class="dropdown-item" href="/pages/services/concrete-commercial.php">Commercial</a>
 										<a class="dropdown-item" href="/pages/services/concrete-foundation.php">Foundation</a>
 										<a class="dropdown-item" href="/pages/services/concrete-slabs.php">Slabs</a>
+										<a class="dropdown-item" href="/pages/services/concrete-cutting.php">Cutting</a>
 										<a class="dropdown-item" href="/pages/services/concrete-repair-and-resurfacing.php">Repair and Resurfacing</a>
 										<a class="dropdown-item" href="/pages/services/sidewalks.php">Sidewalks</a>
 										<a class="dropdown-item" href="/pages/services/concrete-patio.php">Patios</a>

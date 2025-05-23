@@ -21,8 +21,22 @@
                         <h1 id="servicesHeadText">FAQ</h1>
                     </div>
                     <div>
+                        <h3 class="servicesSubTitles">What are the advantages of choosing us?</h3>
+                        <p>
+                            At Warren Concrete, we specialize in delivering high-quality concrete solutions with expert care and precision. 
+                            Here's why home and business owners trust us:
+                            Our professional techniques ensure your concrete surface is strong, smooth, and built to last—minimizing the risk of cracking, chipping, or other common issues.
+                            <br>
+                            Our team consists of trained and experienced concrete professionals who bring skill and attention to detail to every project, big or small.
+                            <br>
+                            Proper installation and finishing by professionals means fewer repairs and better long-term value, helping you save time and money.
+                            <br>
+                        We take the time to understand your specific goals and site conditions, offering personalized guidance to make your project a success.
+                        </p>    
+                    </div>
+                    <div>
                         <h3 class="servicesSubTitles">What is concrete?</h3>
-                        <p class="servicesTexts">
+                        <p>
                             Concrete is a composite material used extensively in construction.
                             It's made by mixing cement, water, and aggregates (which include sand, gravel, or crushed stone).
                             Once mixed, it’s poured into forms, where it sets and hardens over time to become incredibly strong and durable.
